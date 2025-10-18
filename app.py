@@ -6,7 +6,7 @@ import time
 
 
 def fetch_posters(movie_id):
-    """Fetches a movie poster URL from the TMDB API given a movie ID."""
+    
     max_retries = 5
     for attempt in range(max_retries):
         try:
