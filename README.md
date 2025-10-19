@@ -33,7 +33,7 @@ Broken down into five key stages:
 
 
 ### Dataset
-[TMDB 5000 Movie Datase](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
 ### [Documentation](https://clover-lute-ae5.notion.site/Project-Documentation-AI-Powered-Movie-Recommendation-System-291e72e046368057afe7e16f3a18cf3d)
