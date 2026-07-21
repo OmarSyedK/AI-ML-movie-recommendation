@@ -20,7 +20,7 @@ def fetch_posters(movie_id):
             if 'poster_path' in data and data['poster_path']:
                 return "https://image.tmdb.org/t/p/w500/" + data['poster_path']
             else:
-                # Return a placeholder if no poster is available
+                # Return a placeholder if no     poster is available
                 return "https://placehold.co/500x750/374151/FFFFFF?text=No+Poster"
         except requests.exceptions.RequestException:
 
