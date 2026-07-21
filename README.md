@@ -37,3 +37,5 @@ Broken down into five key stages:
 
 
 ### [Documentation](https://clover-lute-ae5.notion.site/Project-Documentation-AI-Powered-Movie-Recommendation-System-291e72e046368057afe7e16f3a18cf3d)
+
+### [Live Link](https://ai-ml-movie-recommendation-yx59xemvnlhosgnjindqw3.streamlit.app/)
